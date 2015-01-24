@@ -2,5 +2,5 @@
 
 ## 3.0.1
 
-- Merged my changes with v3.0.0 release.
+- Merged v3.0.0 release into feature/password-salt.
 - Update to ruby-2.2.0.
